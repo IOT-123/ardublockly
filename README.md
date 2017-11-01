@@ -1,3 +1,6 @@
+### This a fork of carlosperete/Ardublockly.  
+### Some components are used and modified for D1M Blockly (under construction).
+
 # Ardublockly
 Ardublockly is a visual programming editor for Arduino. It is based on Google's [Blockly][1], which has been forked to generate [Arduino][15] code.
 
